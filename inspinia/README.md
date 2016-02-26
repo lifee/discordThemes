@@ -6,4 +6,4 @@
 <b>!!!</b> If you check several themes then theme may be display incorrect.
 
 <h3>Preview</h3>
-<img src="https://i.gyazo.com/567e68562ee6184eba61e554b19d3dbf.png"/>
+<img src="https://i.gyazo.com/f1a6a79b7c99b1e7d9975548940cc12f.png"/>
