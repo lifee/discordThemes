@@ -5,6 +5,7 @@
 
 <blockquote>
 <b>IMPORTANT:</b><br>
+<b>!!!</b> This is <b>BETA</b> Version.<br>
 <b>!!!</b> Use <b>dark</b> theme (in user settings) for better display.<br>
 <b>!!!</b> If you check several themes then theme may be display incorrect.
 </blockquote>
