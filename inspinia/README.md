@@ -4,8 +4,8 @@
 3. Go to <b>User Settings -> Better Discord -> Themes</b> and check the desire theme.
 
 <blockquote>
-<b>IMPORTANT:</b>
-<b>!!!</b> Use <u>light</u> theme (in user settings) for better display.<br>
+<b>IMPORTANT:</b><br>
+<b>!!!</b> Use <b>light</b> theme (in user settings) for better display.<br>
 <b>!!!</b> If you check several themes then theme may be display incorrect.
 </blockquote>
 
